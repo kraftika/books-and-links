@@ -1,0 +1,29 @@
+- TCP and DNS - traffic anrmaly detection
+    http://resources.infosecinstitute.com/testing-sql-injection-sqlmap/
+
+- Useful Linux commands
+    http://resources.infosecinstitute.com/useful-linux-commands/
+
+- DNS Hacking
+    http://resources.infosecinstitute.com/dns-hacking/
+
+- Nmap
+    http://resources.infosecinstitute.com/nmap-cheat-sheet/
+    http://resources.infosecinstitute.com/nmap-cheat-sheet-discovery-exploits-part-2-advance-port-scanning-nmap-custom-idle-scan/
+    http://resources.infosecinstitute.com/nmap-cheat-sheet-discovery-exploits-part-3-gathering-additional-information-host-network-2/
+    
+- Metasploit
+    http://resources.infosecinstitute.com/information-gathering-using-metasploit/
+
+-Command execution
+    http://resources.infosecinstitute.com/command-execution/
+    
+- Getting domain information
+    http://resources.infosecinstitute.com/getting-domain-information/
+
+- Computer network diagnostic
+    http://resources.infosecinstitute.com/computer-network-diagnostics-part-1/
+    http://resources.infosecinstitute.com/computer-network-diagnostics-part-2/
+
+- Tor in 2014
+    http://resources.infosecinstitute.com/good-tor-2014/
