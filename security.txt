@@ -1,0 +1,7 @@
+Security:
+
+- PolyPasswordHasher
+	https://polypasswordhasher.github.io/PolyPasswordHasher/
+
+ - Minded security
+	http://blog.mindedsecurity.com/​
