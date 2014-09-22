@@ -4,4 +4,7 @@ Security:
 	https://polypasswordhasher.github.io/PolyPasswordHasher/
 
  - Minded security
-	http://blog.mindedsecurity.com/​
+	http://blog.mindedsecurity.com
+
+ - XSS challenges
+    https://github.com/cure53/xss-challenge-wiki/wiki

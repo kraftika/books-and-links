@@ -1,2 +1,6 @@
 - A-Z index bash commands
     http://resources.infosecinstitute.com/useful-linux-commands/
+
+    http://www.ibm.com/developerworks/linux/library/l-bash-parameters/index.html
+    http://www.ibm.com/developerworks/linux/library/l-bash-test/index.html
+    http://www.ibm.com/developerworks/linux/library/l-lpic1-v3-103-1/
