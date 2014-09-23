@@ -1,0 +1,8 @@
+http://www.slideshare.net/simone.brunozzi?utm_campaign=profiletracking&utm_medium=sssite&utm_source=ssslideshare
+http://www.infoworld.com/article/2615510/cloud-computing/how-to--get-started-with-amazon-ec2.html
+http://www.infoworld.com/article/2613845/cloud-computing/free-amazon-web-services----and-how-to-make-the-most-of-them.html
+https://wblinks.com/notes/aws-tips-i-wish-id-known-before-i-started/
+http://www.excelsior-usa.com/articles/tomcat-amazon-ec2-basic.html
+http://www.excelsior-usa.com/articles/tomcat-amazon-ec2-java-stack.html
+http://www.excelsior-usa.com/articles/tomcat-amazon-ec2-advanced.html
+http://www.allthingsdistributed.com/2011/02/aws_cloudformation.html

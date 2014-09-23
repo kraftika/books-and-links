@@ -1,0 +1,9 @@
+http://www.objc.io/issue-15/behavior-driven-development.html
+http://www.objc.io/issue-15/
+http://www.objc.io/issue-15/bad-testing-practices.html
+http://www.objc.io/issue-15/user-interface-testing.html
+http://testobsessed.com/wp-content/uploads/2011/04/atddexample.pdf
+http://qeworks.com/data-driven-framework/
+http://resources.infosecinstitute.com/manual-web-application-penetration-testing-introduction/
+http://resources.infosecinstitute.com/manual-web-application-penetration-testing-suffix-prefix-fuzzing/
+http://resources.infosecinstitute.com/minor-web-application-bugs-simplified/

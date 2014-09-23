@@ -1,0 +1,7 @@
+https://www.elearnsecurity.com/collateral/webinar/xss-to-domain-admin/
+https://www.blackhat.com/featured-video-archives/04172014-web-application-security.html
+Johnny Lang - https://www.blackhat.com/featured-video-archives/04212014-you-got-that-with-google.html
+http://resources.infosecinstitute.com/top-50-information-security-interview-questions/
+http://resources.infosecinstitute.com/can-javascript-access-page-elements/
+http://resources.infosecinstitute.com/good-tor-2014/
+http://resources.infosecinstitute.com/minor-web-application-bugs-simplified/

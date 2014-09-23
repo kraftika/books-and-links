@@ -1,0 +1,3 @@
+http://kkovacs.eu/zabbix-vs-nagios
+http://integralads.com/tech-corner/zabbix-a-solid-monitoring-solution-for-multiple-operating-system-platforms/
+http://www.getapp.com/analysis/new-relic-better-app-insights

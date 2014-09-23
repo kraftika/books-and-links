@@ -1,0 +1,6 @@
+http://kvz.io/blog/2013/11/21/bash-best-practices/
+http://www.thegeekstuff.com/2010/08/bash-shell-builtin-commands/
+http://www.thegeekstuff.com/2010/03/introduction-to-bash-scripting/
+http://www.tldp.org/LDP/Bash-Beginners-Guide/html/sect_01_05.html
+http://www.cyberciti.biz/faq/linux-unix-appleosx-bsd-bash-loop-through-file-contents/
+http://google-styleguide.googlecode.com/svn/trunk/shell.xml

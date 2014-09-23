@@ -1,0 +1,4 @@
+http://arstechnica.com/business/2011/11/a-faster-web-server-ripping-out-apache-for-nginx/
+http://nginx.com/blog/using-nginx-plus-web-server/
+http://www.chinanetcloud.com/blog/why-we-use-nginx-instead-of-apache
+https://www.digitalocean.com/community/questions/what-is-nginx-and-why-might-i-want-to-use-it-over-apache
