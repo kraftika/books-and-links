@@ -1,0 +1,13 @@
+- Operating system support
+- Application type support
+- Supported programming languages
+- Source code requirement
+- Record and play component
+- Real devices and emulators
+- Read devices on cloud
+- Touch gestures automation
+- Object recognition
+- Integration with third party tools
+- Advanced automation features
+- Reports and logging
+- Open source vs commercial
